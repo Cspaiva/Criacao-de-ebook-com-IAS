@@ -29,12 +29,12 @@ O conteúdo foi criado para **profissionais, estudantes e criadores** que deseja
 - **Modo claro/escuro**  
 - **Sumário clicável**  
 - **Seções expansíveis**  
-- **Leitura fluida em qualquer navegador**  
+- **Leitura fluida em qualquer navegador**
 
 ---
 
 ## 🔗 Acesse o Ebook
-👉 **[Clique aqui para ler o ebook interativo no navegador](https://htmlpreview.github.io/?https://github.com/cspaiva/ebook-ia-produtividade/blob/main/ebook%20final.html)**  
+👉 **[Clique aqui para ler o ebook interativo no navegador](https://htmlpreview.github.io/?https://github.com/Cspaiva/Criacao-de-ebook-com-IAS/blob/main/ebook%20final.html)**  
 
 *(O ebook abrirá diretamente no navegador, sem precisar baixar.)*
 
@@ -51,9 +51,9 @@ O conteúdo foi criado para **profissionais, estudantes e criadores** que deseja
 ## 📩 Contato e autoria
 📖 *Escrito por* **Cristiano Paiva**  
 🌐 [LinkedIn](https://www.linkedin.com/in/cristiano-paiva-212b2123)  
-💻 [GitHub](https://github.com/cspaiva)
+💻 [GitHub](https://github.com/Cspaiva)
 
 ---
 
 ## 🪶 Licença
-Este ebook é distribuído sob a licença **Creative Commons BY-NC-SA 4.0**, permitindo uso e adaptação com atribuição e sem fins comerciais.
+Este ebook é distribuído sob a licença **Creative Commons BY-NC**
