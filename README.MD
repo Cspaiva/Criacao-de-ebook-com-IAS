@@ -35,7 +35,7 @@ O conteúdo foi criado para **profissionais, estudantes e criadores** que deseja
 ---
 
 ## 🔗 Acesse o Ebook
-👉 **[Clique aqui para ler o ebook interativo](./ebook%20final.html)**  
+👉 **[Clique aqui para ler o ebook interativo](https://htmlpreview.github.io/?https://github.com/cspaiva/ebook-ia-produtividade/blob/main/ebook%20final.html)**  
 *(ou abra o arquivo `ebook final.html` diretamente no seu navegador)*  
 
 ---
