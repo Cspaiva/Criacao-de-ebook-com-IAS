@@ -1,4 +1,3 @@
-
 # 📘 Do Caos ao Controle: IA como Aliada da Sua Rotina
 
 **Autor:** [Cristiano Paiva](https://www.linkedin.com/in/cristiano-paiva-212b2123)  
@@ -30,13 +29,14 @@ O conteúdo foi criado para **profissionais, estudantes e criadores** que deseja
 - **Modo claro/escuro**  
 - **Sumário clicável**  
 - **Seções expansíveis**  
-- **Botão de download do ebook (HTML)**  
+- **Leitura fluida em qualquer navegador**  
 
 ---
 
 ## 🔗 Acesse o Ebook
-👉 **[Clique aqui para ler o ebook interativo](https://htmlpreview.github.io/?https://github.com/cspaiva/ebook-ia-produtividade/blob/main/ebook%20final.html)**  
-*(ou abra o arquivo `ebook final.html` diretamente no seu navegador)*  
+👉 **[Clique aqui para ler o ebook interativo no navegador](https://htmlpreview.github.io/?https://github.com/cspaiva/ebook-ia-produtividade/blob/main/ebook%20final.html)**  
+
+*(O ebook abrirá diretamente no navegador, sem precisar baixar.)*
 
 ---
 
@@ -44,7 +44,7 @@ O conteúdo foi criado para **profissionais, estudantes e criadores** que deseja
 - **HTML5** e **CSS3**  
 - **JavaScript Vanilla** (para interatividade)  
 - **Google Fonts (Inter, Playfair Display)**  
-- **Layout responsivo** no estilo profissional
+- **Layout responsivo** no estilo profissional  
 
 ---
 
